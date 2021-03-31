@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+INFORMAÇÔES IMPORTANTES:
+
+1. A pasta node_modules foi exluída para o projeto poder ser incluído no github. 
+2. A comunicação com o banco de dados está sendo feita separadamente através dos arquivos BD.JS e INDEX.JS, localizados na raíz do projeto. Testar com o comando "NODE INDEX.JS".
+3. Qualquer problema entrar em contato por Email ou telefone. Obrigado!
