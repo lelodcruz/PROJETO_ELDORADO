@@ -30,4 +30,5 @@ INFORMAÇÔES IMPORTANTES:
 
 1. A pasta node_modules foi exluída para o projeto poder ser incluído no github. 
 2. A comunicação com o banco de dados está sendo feita separadamente através dos arquivos BD.JS e INDEX.JS, localizados na raíz do projeto. Testar com o comando "NODE INDEX.JS".
-3. Qualquer problema entrar em contato por Email ou telefone. Obrigado!
+3. A pasta ELDORADO ZIP foi adicionada por segurança, caso algum arquivo não seja enviado, ele pode ser recuperado por ela.
+4. Qualquer problema entrar em contato por Email ou telefone. Obrigado!
